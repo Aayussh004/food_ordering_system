@@ -1,0 +1,10 @@
+
+YOU ORDER  Spaghetti : 350 
+NUMBER OF Spaghetti IS : 2
+
+YOU ORDER  Chrispy Chicken : 520 
+NUMBER OF Chrispy Chicken IS : 2
+							 							TOTAL BILL IS : 1740
+YOU ORDER Tetrazzini : 420
+ NUMBER OF Tetrazzini IS : 3
+							 							TOTAL BILL IS : 1260
